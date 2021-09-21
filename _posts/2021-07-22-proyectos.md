@@ -5,7 +5,7 @@ excerpt: "Proyecto personal en el que fui aprendiendo bastante y de a poco voy a
 date: 2021-03-15
 classes: wide
 header:
-  teaser: /assets/images/lab2.png
+  teaser: /assets/images/homelab/lab2.png
   teaser_home_page: true
   icon: /assets/images/homelab/server.ico
 categories:
@@ -18,7 +18,7 @@ tags:
 
 Laboratorio en proceso, para poder practicar redes, seguridad e implementar diferentes servicios para uso personal.
 
-![Lab!](/assets/images/lab2.png)
+![Lab!](/assets/images/homelab/lab2.png)
 
 
 
@@ -36,7 +36,7 @@ Cisco sf-300-24 managed, lo cambié hace poco para poder crear Vlans anteriormen
 - Amd Fx 6300 con Proxmox: Open Media Vault ,Portainer, Ansible, Jellyfin, Nextcloud, algunas Wiki, entre otros. Cuenta con una tarjeta de red adicional que utilizo para conectar algunas vm’s con otra red.
 
 
-![Relay!](/assets/images/proxmox-vm.png)
+![Relay!](/assets/images/homelab/proxmox-vm.png)
 
 - Raspberry Pi b3+: samba, nginx, wiki. 
 - Raspberry Pi b3+: motionEyeOS, sistema de vigilancia.
@@ -48,7 +48,7 @@ Cisco sf-300-24 managed, lo cambié hace poco para poder crear Vlans anteriormen
 
 Otra parte del proyecto es domótica, la cual quedó un poco en el olvido, lo que se ve a continuación es una raspberry conectada a un relay el cual se activa con un script en python. 
 
-![Relay!](/assets/images/relay6.gif)
+![Relay!](/assets/images/homelab/relay6.gif)
 
 La idea es poder ejecutar desde la terminal un comando y prender las luces de la habitación. Lo más práctico sería tener algún asistente open source y colocar varios dispositivos wifi conectados al mismo, de esta forma se puede controlar por ejemplo del teléfono con una app sin estar escribiendo comandos.
 
