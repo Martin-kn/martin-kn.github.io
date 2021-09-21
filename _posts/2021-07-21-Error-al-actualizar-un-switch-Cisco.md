@@ -5,7 +5,7 @@ excerpt: "Un problema con el que me encontré a la hora de actualizar el firmwar
 date: 2021-03-10
 classes: wide
 header:
-  teaser: /assets/images/cisco1.png
+  teaser: /assets/images/cisco/cisco1.png
   teaser_home_page: true
   icon: 
 categories:
@@ -22,15 +22,11 @@ Un problema con el que me encontré a la hora de actualizar el firmware cuando c
 
 - illegal software format copy al subir un archivo → hay que cargar una versión anterior hasta que deje subir el firmware. Luego se puede cargar otra más nueva hasta llegar al que necesitemos. 
 
-![Cisco1!](/assets/images/cisco1.png)
+![Cisco1!](/assets/images/cisco/cisco1.png)
 
 ### Oversize
 
 - oversize o tamaño muy grande al actualizar → en el foro de cisco dice que ésto es porque tenemos que buscar dentro de esa versión la que tiene zip (que dentro de ella viene el bootloader) e instalar el bootloader. Para ello necesitamos si o si hacerlo via TFTP y levantar nuestro propio servidor para enviar el archivo.
 
 
-![Cisco2!](/assets/images/cisco2.png)
-
-
-
- 
+![Cisco2!](/assets/images/cisco/cisco2.png)
