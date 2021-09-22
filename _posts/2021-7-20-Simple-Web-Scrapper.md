@@ -5,7 +5,7 @@ excerpt: "Mi primer scrapper en Python. Queda mucho por aprender, voy estar haci
 date: 2021-05-22
 classes: wide
 header:
-  teaser: /assets/images/scrp2.png
+  teaser: /assets/images/scraper/scrp2.png
   teaser_home_page: true
   icon: /assets/images/python.png
 categories:
