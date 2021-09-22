@@ -16,7 +16,7 @@ tags:
 
 Un scrapper simple hecho en python, en el que se obtiene las entradas de un blog mostrando el título, parte de su contenido y el link de la entrada.
 
-![](/assets/images/scrp2.png)
+![scrp](/assets/images/scraper/scrp2.png)
 
 
 
